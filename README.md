@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bajaj Finserv Backend API
 
 This is the backend API for the Bajaj Finserv qualifier task. It provides endpoints for processing data and includes an AI-powered feature using Google Gemini.
@@ -98,3 +99,7 @@ Health check endpoint to verify the server is running.
    # or
    bun test
    ```
+=======
+# bajaj-project
+Bajaj Group is one of India’s oldest and most diversified industrial conglomerates. It was founded in 1926 by Jamnalal Bajaj and has grown into a multinational group with interests in multiple sectors.
+>>>>>>> 718d9326d50787c5c9ea483fbc11a6f23df5d1a4
