@@ -1,0 +1,27 @@
+{
+  "name": "bajaj-finserv",
+  "version": "1.0.0",
+  "description": "Bajaj Finserv Backend API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kunal Bhatia",
+  "email": "kunal0638.be23@chitkara.edu.in",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.4",
+    "express": "^4.19.2",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "axios": "^1.13.5",
+    "nodemon": "^3.1.0"
+  }
+}
