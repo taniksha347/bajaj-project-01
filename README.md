@@ -10,10 +10,10 @@ This is the backend API for the Bajaj Finserv qualifier task. It provides endpoi
 
 ## 👨‍💻 Author
 
-- **Name:** Kunal Bhatia
-- **Email:** kunal0638.be23@chitkara.edu.in
-- **Roll Number:** 2310990638
-- **GitHub Repo:** [https://github.com/kunalbhatia2601/Bajaj-finserv-Q1](https://github.com/kunalbhatia2601/Bajaj-finserv-Q1)
+- **Name:** Taniksha
+- **Email:** taniksha1822.becse24@chitkara.edu.in
+- **Roll Number:** 2410991822
+- **GitHub Repo:** (https://github.com/taniksha347/bajaj-project)
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,7 @@ This is the main endpoint that processes JSON input.
 ```json
 {
   "is_success": true,
-  "official_email": "kunal0638.be23@chitkara.edu.in",
+  "official_email": "taniksha1822.becse24@chitkara.edu.in",
   "data": ... // Result based on the input key(s)
 }
 ```
@@ -58,7 +58,7 @@ Health check endpoint to verify the server is running.
 ```json
 {
   "is_success": true,
-  "official_email": "kunal0638.be23@chitkara.edu.in",
+  "official_email": "taniksha1822.becse24@chitkara.edu.in",
   "data": "Server is healthy and running!"
 }
 ```
@@ -67,7 +67,7 @@ Health check endpoint to verify the server is running.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kunalbhatia2601/Bajaj-finserv-Q1.git
+   git clone https://github.com/taniksha347/bajaj-project
    cd Bajaj-finserv-Q1
    ```
 
